@@ -1,0 +1,18 @@
+=========================================
+         CITY MEDICAL HOSPITAL          
+         FINANCIAL INVOICE STATEMENT     
+=========================================
+INVOICE ID:      #INV-7
+PATIENT NAME:    Hamza
+PATIENT ID:      PT-10006
+DATE COMPILED:   2026-06-03  06:07:44
+-----------------------------------------
+WARD ROOM DAILY RATE STAY: Included
+-----------------------------------------
+TOTAL GROSS AMOUNT:      $  150.00
+TOTAL PAID:              $  150.00
+OUTSTANDING BALANCE:     $    0.00
+-----------------------------------------
+PAYMENT STATUS:  PAID
+PAYMENT METHOD:  CASH
+=========================================

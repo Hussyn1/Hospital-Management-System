@@ -1,0 +1,58 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+
+<!-- <?import javafx.scene.control.*?> -->
+<!-- <?import javafx.scene.layout.*?> -->
+<!-- <?import javafx.geometry.Insets?> -->
+
+<!-- <BorderPane fx:id="mainContainer" prefHeight="800.0" prefWidth="1200.0" styleClass="main-bg" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.hospital.controllers.DashboardController"> -->
+   
+<!--     Left Sidebar Navigation -->
+<!--    <left> -->
+<!--       <VBox styleClass="sidebar" spacing="10.0" alignment="TOP_CENTER"> -->
+<!--          <children> -->
+<!--             Logo Section -->
+<!--             <VBox alignment="CENTER_LEFT" spacing="2.0"> -->
+<!--                <children> -->
+<!--                   <Label styleClass="sidebar-logo" text="HMS" /> -->
+<!--                   <Label styleClass="sidebar-subtitle" text="INTEGRATED CLINICAL SUITE" /> -->
+<!--                </children> -->
+<!--             </VBox> -->
+            
+<!--             <Separator styleClass="sidebar-divider" /> -->
+            
+<!--             Dynamic Navigation Links Container -->
+<!--             <ScrollPane fitToWidth="true" hbarPolicy="NEVER" vbarPolicy="AS_NEEDED" VBox.vgrow="ALWAYS" style="-fx-background-color: transparent; -fx-background: transparent;"> -->
+<!--                <content> -->
+<!--                   <VBox fx:id="navigationBox" spacing="5.0" style="-fx-background-color: transparent;"> -->
+<!--                      Buttons will be dynamically added here based on Role -->
+<!--                   </VBox> -->
+<!--                </content> -->
+<!--             </ScrollPane> -->
+            
+<!--             <Separator styleClass="sidebar-divider" /> -->
+            
+<!--             Logged In User Info Card -->
+<!--             <VBox spacing="6.0" style="-fx-padding: 15 20 15 20; -fx-background-color: rgba(255,255,255,0.03); -fx-background-radius: 8;"> -->
+<!--                <children> -->
+<!--                   <Label fx:id="userNameLabel" style="-fx-font-weight: bold; -fx-text-fill: -hms-text-primary; -fx-font-size: 13;" text="Dr. Sarah Smith" /> -->
+<!--                   <Label fx:id="userRoleLabel" style="-fx-text-fill: -hms-accent; -fx-font-size: 11; -fx-font-weight: bold;" text="CARDIOLOGIST" /> -->
+<!--                   <Button onAction="#handleLogout" styleClass="btn-secondary" text="Sign Out" prefWidth="200.0" style="-fx-font-size: 11; -fx-padding: 5 10 5 10;" /> -->
+<!--                </children> -->
+<!--                <VBox.margin> -->
+<!--                   <Insets bottom="10.0" left="15.0" right="15.0" top="5.0"/> -->
+<!--                </VBox.margin> -->
+<!--             </VBox> -->
+<!--          </children> -->
+<!--       </VBox> -->
+<!--    </left> -->
+   
+<!--    <!-- Main Dynamic Work Area --> -->
+<!--    <center> -->
+<!--       <StackPane fx:id="contentArea" styleClass="content-area"> -->
+<!--          <children> -->
+<!--             Content will be injected dynamically by DashboardController -->
+<!--          </children> -->
+<!--       </StackPane> -->
+<!--    </center> -->
+   
+<!-- </BorderPane> -->

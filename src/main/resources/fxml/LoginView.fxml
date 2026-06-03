@@ -1,0 +1,66 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+
+<!-- <?import javafx.scene.control.*?> -->
+<!-- <?import javafx.scene.layout.*?> -->
+<!-- <?import javafx.scene.text.Text?> -->
+
+<!-- <StackPane fx:id="rootPane" prefHeight="650.0" prefWidth="1000.0" styleClass="login-bg" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.hospital.controllers.LoginController"> -->
+<!--    <children> -->
+<!--       <VBox alignment="CENTER" spacing="10.0" fillWidth="false"> -->
+<!--          <children> -->
+<!--             <VBox styleClass="login-card" alignment="TOP_CENTER" spacing="20.0" prefWidth="400.0"> -->
+<!--                <children> -->
+<!--                   <VBox alignment="CENTER" spacing="5.0"> -->
+<!--                      <children> -->
+<!--                         <Label styleClass="login-subtitle" text="Hospital Management System" /> -->
+<!--                      </children> -->
+<!--                   </VBox> -->
+                  
+<!--                   <VBox spacing="6.0" alignment="CENTER_LEFT" fillWidth="true"> -->
+<!--                      <children> -->
+<!--                         <Label styleClass="form-label" text="USERNAME" /> -->
+<!--                         <TextField fx:id="usernameField" promptText="Enter your username" styleClass="text-field" /> -->
+<!--                      </children> -->
+<!--                   </VBox> -->
+                  
+<!--                   <VBox spacing="6.0" alignment="CENTER_LEFT" fillWidth="true"> -->
+<!--    <children> -->
+<!--       <Label styleClass="form-label" text="PASSWORD" /> -->
+
+<!--       <HBox spacing="6.0" alignment="CENTER"> -->
+<!--          <children> -->
+<!--             <StackPane HBox.hgrow="ALWAYS"> -->
+<!--                <children> -->
+<!--                   <TextField fx:id="visiblePasswordField" -->
+<!--                              promptText="Enter your password" -->
+<!--                              visible="false" -->
+<!--                              managed="false" -->
+<!--                              styleClass="text-field" /> -->
+
+<!--                   <PasswordField fx:id="passwordField" -->
+<!--                                  promptText="Enter your password" -->
+<!--                                  styleClass="password-field" /> -->
+<!--                </children> -->
+<!--             </StackPane> -->
+
+<!--           <Button fx:id="togglePasswordButton" -->
+<!--         text="Show" -->
+<!--         onAction="#handleTogglePassword" -->
+<!--         styleClass="btn-secondary" -->
+<!--         prefWidth="60.0" /> -->
+<!--          </children> -->
+<!--       </HBox> -->
+<!--    </children> -->
+<!-- </VBox> -->
+                  
+<!--                   <Label fx:id="errorLabel" styleClass="error-label" text="" visible="false" wrapText="true" /> -->
+                  
+<!--                   <Button fx:id="loginButton" styleClass="btn-primary" text="LOG IN" onAction="#handleLogin" prefWidth="320.0" /> -->
+<!--                </children> -->
+<!--             </VBox> -->
+            
+<!--             <Label styleClass="label-muted" text="Default credentials: admin / admin123  |  dr_smith / doctor123" /> -->
+<!--          </children> -->
+<!--       </VBox> -->
+<!--    </children> -->
+<!-- </StackPane> -->

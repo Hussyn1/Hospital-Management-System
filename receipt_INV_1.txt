@@ -1,0 +1,16 @@
+=========================================
+         MEDICAL HOSPITAL       
+         FINANCIAL INVOICE STATEMENT      
+=========================================
+INVOICE ID: #INV-1
+PATIENT RECORD KEY: PT-10001
+DATE COMPILED: 2026-05-31T06:03:54
+-----------------------------------------
+DOCTOR CONSULTING FEES:  Included
+-----------------------------------------
+TOTAL GROSS STATEMENT:   $225.00
+NET PAID BALANCE SHEET:  $225.00
+OUTSTANDING DUE REVENUE: $0.00
+-----------------------------------------
+PAYMENT STATUS LEDGER:   PAID
+=========================================
